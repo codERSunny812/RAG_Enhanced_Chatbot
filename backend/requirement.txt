@@ -1,0 +1,29 @@
+# PDF processing
+pdfplumber
+PyMuPDF
+
+# Chunking
+langchain
+langchain-community
+
+# Embeddings
+sentence-transformers
+
+# Vector DB
+faiss-cpu
+
+# Backend API
+fastapi
+uvicorn
+python-multipart
+httpx
+
+# LLM (Ollama client)
+ollama
+
+# Evaluation
+rouge-score
+
+# Utilities
+python-dotenv
+tqdm

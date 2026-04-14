@@ -1,0 +1,1806 @@
+{
+  "03873a8c64d5e5e3f7ad1fb2f89a8532": {
+    "query": "What is the waiting period for pre-existing diseases?",
+    "answer": "Here's the answer to your question:\n\n* The waiting period for pre-existing diseases is 48 months.\n* This means that benefits will not be available for any condition, whether diagnosed or not, ailment or injury or related condition(s) for which the Insured has been diagnosed, received medical treatment, had signs and/or symptoms, prior to inception of their first Policy with the Insurer, until 48 consecutive months have elapsed after the date of inception of the first Policy with the Insurer.\n* This exclusion shall cease to apply if the Insured has maintained the Health Insurance Policy with the Insurer for a continuous period of a full 4 years.",
+    "sources": [
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 15,
+        "score": 0.8009164929389954
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 48,
+        "score": 0.8922598361968994
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 44,
+        "score": 0.8981668949127197
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 105,
+        "score": 0.9034574031829834
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 52,
+        "score": 0.9507846832275391
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 47,
+        "score": 0.9753954410552979
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 48,
+        "score": 1.0062580108642578
+      }
+    ]
+  },
+  "960694703265b538172ec0df27453caa": {
+    "query": "What expenses are covered during hospitalization?",
+    "answer": "Here is the answer to your question:\n\n• This IS covered:\n  • Room, Boarding Expenses\n  • Medical Practitioners fees\n  • Intensive Care Unit\n  • Nursing Expenses\n  • Surgical fees, operating theatre, Anesthetist, Anesthesia, Blood,\n    Oxygen and their administration,\n  • Physio therapy while being treated as inpatient and being part of the treatment.\n  • Drugs and medicines consumed during hospitalization period.\n  • Hospital miscellaneous services (such as laboratory, X-ray, diagnostic tests)\n  • Dressing, ordinary splints and plaster casts.\n  • Cost of Prosthetic devices if implanted during a surgical procedure.\n\nNote: The above expenses are covered subject to the sum insured mentioned in the policy contract.",
+    "sources": [
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 2,
+        "score": 0.5667812824249268
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 10,
+        "score": 0.5762221217155457
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 3,
+        "score": 0.6034959554672241
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 1,
+        "score": 0.6281473636627197
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 11,
+        "score": 0.6388278007507324
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 2,
+        "score": 0.6493314504623413
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 67,
+        "score": 0.6524844169616699
+      }
+    ]
+  },
+  "94e844daf761dd7f72c06793220ff426": {
+    "query": "Is maternity benefit covered under the policy?",
+    "answer": "Here's the answer to your question:\n\n* Maternity benefit IS COVERED under the policy.\n* However, it is mentioned in Source 2: UIIHCS20015V011920_2019-2020.pdf that \"Maternity Benefit Endorsement\" is available as an additional benefit.\n\nNo further information is provided about maternity benefits in the given context.",
+    "sources": [
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 42,
+        "score": 0.6158972978591919
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 1,
+        "score": 0.9061031341552734
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 1,
+        "score": 0.9460626244544983
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 55,
+        "score": 0.9483309984207153
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 89,
+        "score": 0.9512360095977783
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 10,
+        "score": 0.9726817011833191
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 49,
+        "score": 0.9751463532447815
+      }
+    ]
+  },
+  "e2432f544e10e23b9b8a0ad59978e3eb": {
+    "query": "What is the waiting period for cataract surgery?",
+    "answer": "Here's the answer:\n\n* The waiting period for cataract surgery is 30 days.\n* This means that no benefit shall be payable during the term of the Policy for the claim which occurs or where the hospitalisation for the claim has occurred within 30 days of first Policy issue Date.",
+    "sources": [
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 33,
+        "score": 0.9514985680580139
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 28,
+        "score": 1.0180493593215942
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 32,
+        "score": 1.0393104553222656
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 143,
+        "score": 1.0714375972747803
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 9,
+        "score": 1.131361484527588
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 52,
+        "score": 1.1393563747406006
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 16,
+        "score": 1.1520079374313354
+      }
+    ]
+  },
+  "2526e8fa8cbb6dc38300605be6103d54": {
+    "query": "Are ambulance charges covered?",
+    "answer": "Here's the answer:\n\n• This IS covered.\n• The policy will cover Reasonable and Customary Charges for ambulance expenses as specified in the Schedule of Insurance Certificate.\n• The maximum liability for ambulance expenses is limited to 1% of Sum Insured per Policy period up to a maximum of INR 1500, subject to the condition that the ambulance service is offered by a healthcare or ambulance service provider and the policyholder has accepted an In-patient Hospitalization claim under Clause 2.1.\n• The policy also covers Ambulance Charges as part of OPTIONAL COVERS with additional premium of Rs.100/-, through the TPA, for emergency cases.",
+    "sources": [
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 7,
+        "score": 0.709491491317749
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 34,
+        "score": 0.7724950313568115
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 7,
+        "score": 0.7914052605628967
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 102,
+        "score": 0.8287349939346313
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 35,
+        "score": 0.8938769102096558
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 2,
+        "score": 0.90202397108078
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 144,
+        "score": 0.9140995740890503
+      }
+    ]
+  },
+  "51f8c4ecc37d089ad87b19e73c2ed6b1": {
+    "query": "What is not covered under the policy?",
+    "answer": "Based on the provided context, here are the exclusions that are NOT covered under the policy:\n\n• Gastric or duodenal ulcers (EXCLUDED for the first year of cover)\n• Tonsillectomy (EXCLUDED for the first year of cover)\n• Adenoidectomy (EXCLUDED for the first year of cover)\n• Mastoidectomy (EXCLUDED for the first year of cover)\n• Tympanoplasty (EXCLUDED for the first year of cover)\n• Surgery on all internal or external tumor/cysts/nodules/polyps of any kind, including breast lumps (EXCLUDED for the first year of cover)\n• All types of Hernia and Hydrocele (EXCLUDED)\n• Anal Fissures, Fistula, and Piles (EXCLUDED for the first year of cover)\n\nPlease note that these exclusions may be waived if the Insured establishes to the Insurer's satisfaction that they were unaware of and had not taken any advice or medication for such Illness or treatment, provided they have been covered continuously without interruption for at least 2 years under a previous individual health insurance policy.",
+    "sources": [
+      {
+        "source": "स्वास्थ्य बीमा व्यवसाय पर मास्टर परिपत्र _ Master Circular  on Health  Insurance Business  29052024.pdf",
+        "chunk_id": 11,
+        "score": 0.608600378036499
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 1,
+        "score": 0.6183351278305054
+      },
+      {
+        "source": "स्वास्थ्य बीमा व्यवसाय पर मास्टर परिपत्र _ Master Circular  on Health  Insurance Business  29052024.pdf",
+        "chunk_id": 10,
+        "score": 0.7086532711982727
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 54,
+        "score": 0.8017798662185669
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 31,
+        "score": 0.8200908899307251
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 50,
+        "score": 0.8256251811981201
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 30,
+        "score": 0.827104389667511
+      }
+    ]
+  },
+  "08ab7067e01f59b728eecafbb66a9b82": {
+    "query": "What documents are needed for a claim?",
+    "answer": "Here are the required documents for a claim:\n\n• Duly filled claim form.\n• Original bills, receipts and discharge certificate/card from the Hospital/ Medical Practitioner. \n  - Self attested copies of bills, Page 15 of 44\n• Original bills from chemists supported by proper prescription.\n• Original consultation notes and/or investigation test reports and payment receipts supported by prescription. \n  - Self attested copies of bills, receipts and Hospital discharge summary can be provided for Critical Illness or Hospital Cash claim\n\nNote: The documents required may vary depending on the type of claim (e.g. cashless hospitalization, critical illness, etc.) and the specific policy terms.",
+    "sources": [
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 53,
+        "score": 0.8359423875808716
+      },
+      {
+        "source": "स्वास्थ्य बीमा व्यवसाय पर मास्टर परिपत्र _ Master Circular  on Health  Insurance Business  29052024.pdf",
+        "chunk_id": 25,
+        "score": 0.8665525913238525
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 74,
+        "score": 0.8988381028175354
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 72,
+        "score": 0.9006080031394958
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 47,
+        "score": 0.9649064540863037
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 71,
+        "score": 0.9739288091659546
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 70,
+        "score": 0.9954783916473389
+      }
+    ]
+  },
+  "bd8e17d9059cdfcac99242c5e207397b": {
+    "query": "What is the renewal process for the policy?",
+    "answer": "Here are the key points about the renewal process for the policy:\n\n* Renewal means the terms on which the contract of insurance can be renewed on mutual consent with a provision of grace period.\n* The grace period is 1 month.\n* Any notice, direction or instruction given under this Policy shall be in writing and delivered by hand, post, or facsimile to the address specified in the Schedule of Insurance.\n* Renewal of the Policy will not ordinarily be denied other than on grounds of moral hazard, misrepresentation and fraud.\n* The policy can be renewed annually throughout the lifetime of the insured person (as per Source 5: UIIHCS20015V011920_2019-2020.pdf).\n* The policy may be renewed by mutual consent before the expiry of the policy period (as per Source 5: UIIHCS20015V011920_2019-2020.pdf).\n* The company is not bound to send renewal notice (as per Source 5: UIIHCS20015V011920_2019-2020.pdf).\n* Renewal premium will not alter based on individual claims experience (as per Source 5: UIIHCS20015V011920_2019-2020.pdf).\n* The policy can be renewed subject to the underwriting criteria of the insurer (as per Source 2: Health Companion-Health Insurance Plan_GEN617.pdf).\n\nNote that there is no specific mention of a grace period of 48 months or any other duration in the provided context.",
+    "sources": [
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 27,
+        "score": 0.5846887826919556
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 49,
+        "score": 0.735281229019165
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 95,
+        "score": 0.740439236164093
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 98,
+        "score": 0.7439628839492798
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 84,
+        "score": 0.7440093755722046
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 40,
+        "score": 0.7487139701843262
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 99,
+        "score": 0.756574273109436
+      }
+    ]
+  },
+  "49638be1f47f3b2aa822e880eb92bdde": {
+    "query": "Is dental treatment covered under the policy?",
+    "answer": "Here's the answer to your question:\n\n* Dental treatment IS COVERED under the policy.\n* However, there are exclusions for certain types of dental treatments:\n + Cosmetic surgery is EXCLUDED unless it is medically required as a part of treatment for cancer, accidents and burns to restore functionality.\n + Treatment for disorders of the tempromandibular joint is EXCLUDED.",
+    "sources": [
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 23,
+        "score": 0.8290044069290161
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 22,
+        "score": 0.873364269733429
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 24,
+        "score": 0.8794874548912048
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 56,
+        "score": 0.8919678926467896
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 34,
+        "score": 0.8968920707702637
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 18,
+        "score": 0.9000948667526245
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 55,
+        "score": 0.9223145246505737
+      }
+    ]
+  },
+  "b44e045f688c420eae7013063de14431": {
+    "query": "What is the definition of a pre-existing disease?",
+    "answer": "Here is the answer to your question:\n\n* The definition of a Pre-Existing Disease is given in Def. 39 of the policy document.\n* A Pre-Existing Disease means any condition, ailment or Injury or related condition(s) for which you had signs or symptoms, and / or were diagnosed, and / or received medical advice / treatment within 48 months to prior to the first policy issued by the insurer.",
+    "sources": [
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 105,
+        "score": 0.640049159526825
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 30,
+        "score": 0.9345030784606934
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 104,
+        "score": 0.9382898211479187
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 95,
+        "score": 0.9463381767272949
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 89,
+        "score": 0.9686062335968018
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 96,
+        "score": 0.9891048669815063
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 99,
+        "score": 1.0229718685150146
+      }
+    ]
+  },
+  "830ddca0c9fc700b45b9fd35f113c81b": {
+    "query": "Are daycare procedures covered?",
+    "answer": "Here's the answer to your question:\n\n• This IS COVERED under the policy.\n\nSpecifically, as per Source 3: UIIHCS20015V011920_2019-2020.pdf and Source 6: Health Insurance Policy - Retail_GEN633.pdf, \"Day Care Treatment\" is defined as a medical treatment, and/or surgical procedure which is undertaken under General or Local Anaesthesia in a Hospital/day care centre in less than 24 hrs because of technological advancement.\n\nAdditionally, as per Source 4: TATHLIP21255V022021_2020-2021.pdf and Source 5: UIIHCS20015V011920_2019-2020.pdf, \"Day Care Centre\" is defined as any institution established for day care treatment of illness and/or injuries or a medical set-up within a hospital and which has been registered with the local authorities, wherever applicable, and is under the supervision of a registered and qualified medical practitioner.\n\nThe policy covers Day Care Expenses, which means the Reasonable and Customary Expenses incurred towards medical treatment for a Day Care Treatment/Procedure preauthorized by the Administrator and done in a Network Hospital/Day Care Centre to the extent that such cost does not exceed the Reasonable and Customary Expenses in the locality for the same Day Care Treatment/Procedure.",
+    "sources": [
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 7,
+        "score": 0.8748819828033447
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 86,
+        "score": 0.895744800567627
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 143,
+        "score": 0.9204286932945251
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 2,
+        "score": 0.9758185148239136
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 21,
+        "score": 0.9835034608840942
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 6,
+        "score": 0.9861842393875122
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 111,
+        "score": 0.9886387586593628
+      }
+    ]
+  },
+  "e920c940af5e8876305c8e2ac5e3fde7": {
+    "query": "What is the sum insured under the policy?",
+    "answer": "Here's the answer:\n\n* The Sum Insured limit available for the Insured Person will be 125% of the amount arrived after deducting the claims paid and/or outstanding from sum insured as on the date of accident for the Insured Person under the policy.\n* This means that the maximum Sum Insured is calculated by adding 125% to the remaining Sum Insured (after deducting claims).\n* The maximum increase in Sum Insured due to this clause would be restricted to a maximum of INR 1,00,000/- only.\n\nIn other words, if the initial Sum Insured is INR X, the maximum additional Sum Insured that can be added under this clause would be INR (X + 125% of X) - INR X = INR 1,25,000 - INR X.",
+    "sources": [
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 41,
+        "score": 0.5517421960830688
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 31,
+        "score": 0.6794278025627136
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 90,
+        "score": 0.7033389806747437
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 85,
+        "score": 0.7487335205078125
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 88,
+        "score": 0.7516435384750366
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 33,
+        "score": 0.7744824290275574
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 82,
+        "score": 0.7783917188644409
+      }
+    ]
+  },
+  "bf82e1e954416dcbb13ad06557b911c5": {
+    "query": "Is cosmetic surgery covered?",
+    "answer": "Here's the answer to your question:\n\n* Cosmetic Surgery is EXCLUDED.\n* This exclusion applies unless such treatment is Medically Necessary as a part of treatment for cancer or Injury resulting from Accidents or burns and is required to restore functionality.",
+    "sources": [
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 97,
+        "score": 0.7505427598953247
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 58,
+        "score": 0.7911503314971924
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 22,
+        "score": 0.8171305060386658
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 18,
+        "score": 0.8895055651664734
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 33,
+        "score": 0.9344295859336853
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 10,
+        "score": 0.974380373954773
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 50,
+        "score": 0.9749706387519836
+      }
+    ]
+  },
+  "7dbd826b4221792bd2c5d949e28aa71b": {
+    "query": "What is the free look period?",
+    "answer": "Here's the answer to your question:\n\n• The free look period is applicable at the inception of the first policy.\n• You will be allowed a period of at least 15 days from the date of receipt of the policy to review the terms and conditions of the policy and to return the same if not acceptable.\n\nThis IS covered.",
+    "sources": [
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 91,
+        "score": 1.0133533477783203
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 69,
+        "score": 1.2280712127685547
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 34,
+        "score": 1.2498559951782227
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 33,
+        "score": 1.2636833190917969
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 92,
+        "score": 1.2710663080215454
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 39,
+        "score": 1.3673436641693115
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 71,
+        "score": 1.3975286483764648
+      }
+    ]
+  },
+  "47cc3fb5ec8408b8d5aeaba37399fe37": {
+    "query": "Are pre and post hospitalization expenses covered?",
+    "answer": "Here are the answers to your question:\n\n* Pre-hospitalization Medical Expenses: This IS COVERED up to 30 days immediately before an Insured Person's admission for the same Illness.\n* Post-hospitalization Medical Expenses: This IS COVERED up to 60 days immediately after an Insured Person's discharge from Hospital for the same Illness.\n\nNote that pre and post hospitalization expenses are covered as reimbursement only, not as part of the sum insured.",
+    "sources": [
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 104,
+        "score": 0.5505554676055908
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 3,
+        "score": 0.5589900612831116
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 40,
+        "score": 0.5732178092002869
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 24,
+        "score": 0.6631789803504944
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 4,
+        "score": 0.6773730516433716
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 2,
+        "score": 0.6868172883987427
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 22,
+        "score": 0.6937215328216553
+      }
+    ]
+  },
+  "f0e998593636f64b8a8c5a9409259e4c": {
+    "query": "What is covered under domiciliary hospitalization?",
+    "answer": "Here's the answer in clear bullet points:\n\n• This IS COVERED under the policy.\n• Domiciliary Hospitalisation means medical treatment for a period exceeding 3 days for an illness/disease/injury which in the normal course would require care and treatment at a Hospital/nursing home.\n• The condition of the patient is such that he/she cannot be removed to the Hospital/nursing Home or\n• The patient cannot be removed to Hospital/nursing home for lack of accommodation therein.",
+    "sources": [
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 9,
+        "score": 0.5998449325561523
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 4,
+        "score": 0.6924646496772766
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 13,
+        "score": 0.6937391757965088
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 68,
+        "score": 0.725475013256073
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 10,
+        "score": 0.7554956078529358
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 12,
+        "score": 0.7596703767776489
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 36,
+        "score": 0.7814954519271851
+      }
+    ]
+  },
+  "febcab3dd5d1ca863b46ccf2a6cf12f5": {
+    "query": "Is mental illness covered under the policy?",
+    "answer": "Here's the answer to your question:\n\n* This IS NOT COVERED under the policy.\n \nThe policy explicitly states that it does not cover any mental illness or sickness or disease, including psychiatric conditions, disorganisation of personality or mind, or emotions or behaviour.",
+    "sources": [
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 56,
+        "score": 0.9656848907470703
+      },
+      {
+        "source": "स्वास्थ्य बीमा व्यवसाय पर मास्टर परिपत्र _ Master Circular  on Health  Insurance Business  29052024.pdf",
+        "chunk_id": 48,
+        "score": 0.9687450528144836
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 41,
+        "score": 0.9973530173301697
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 68,
+        "score": 1.0049445629119873
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 54,
+        "score": 1.0101228952407837
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 128,
+        "score": 1.021399974822998
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 76,
+        "score": 1.0235897302627563
+      }
+    ]
+  },
+  "3daf305147d69fad1ed0aedb32635be4": {
+    "query": "What is the claim settlement process?",
+    "answer": "Here's the claim settlement process as per the provided policy documents:\n\n• The insurer shall settle or reject a claim within 30 days from the date of receipt of the last necessary document.\n\n• In case of delay in the payment of a claim, the company shall pay interest to the extent of the payment.\n\n• If two or more policies are taken by the insured during a period, the policyholder shall have the right to require a settlement of his/her claim in terms of any of his/her policies. The insurer who has issued the chosen policy shall be obliged to settle the claim as long as the claim is within the limits of and according to the terms of the chosen policy.\n\n• The payment of the amount due shall be made by the company, upon acceptance of an offer of settlement as stated above by the insured person, within 7 (seven) days from the date of acceptance of the offer.\n\n• On receipt of the final document(s), the company shall within a period of 30 (thirty) days offer a settlement of the claim to the insured person.\n\n• In case of delay beyond stipulated 45 days, the company shall be liable to pay interest at a rate 2% above the bank rate prevalent at the beginning of the financial year in which the claim is paid, from the date of receipt of last necessary document to the date of payment of claim.",
+    "sources": [
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 55,
+        "score": 0.7301717400550842
+      },
+      {
+        "source": "स्वास्थ्य बीमा व्यवसाय पर मास्टर परिपत्र _ Master Circular  on Health  Insurance Business  29052024.pdf",
+        "chunk_id": 24,
+        "score": 0.7839257717132568
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 77,
+        "score": 0.8268396854400635
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 75,
+        "score": 0.8282603025436401
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 79,
+        "score": 0.8353917598724365
+      },
+      {
+        "source": "स्वास्थ्य बीमा व्यवसाय पर मास्टर परिपत्र _ Master Circular  on Health  Insurance Business  29052024.pdf",
+        "chunk_id": 32,
+        "score": 0.8427991271018982
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 103,
+        "score": 0.8641191720962524
+      }
+    ]
+  },
+  "4eaa78aaaf497216543f8d7ca3898253": {
+    "query": "Are organ donor expenses covered?",
+    "answer": "Here's the answer to your question:\n\n• This IS COVERED for an organ donor’s treatment for the harvesting of the organ donated provided that:\n  a. The donation conforms to The Transplantation of Human Organs Act 1994 and the organ is for the use of the Insured Person;\n  b. The Insured Person has been medically advised to undergo an organ transplant;\n\n• However, we will not pay the donor’s pre- and post-Hospitalisation expenses or any other medical treatment for the donor consequential on the organ extraction.\n\n• This IS COVERED within the Sum Insured of the Insured Person under the Policy and as specified in the policy Schedule.",
+    "sources": [
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 37,
+        "score": 0.49652013182640076
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 6,
+        "score": 0.506460428237915
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 5,
+        "score": 0.514916181564331
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 6,
+        "score": 0.5448588132858276
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 38,
+        "score": 0.57497638463974
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 5,
+        "score": 0.5767128467559814
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 145,
+        "score": 0.592528223991394
+      }
+    ]
+  },
+  "a22920b61d861275d42410e5900b384e": {
+    "query": "What is the grace period for premium payment?",
+    "answer": "Here are the details about the grace period for premium payment:\n\n• The grace period for premium payment is 15 days for monthly instalments and 30 days for quarterly/half-yearly/annual instalments.\n• This means that if a policyholder pays their premium on time, but misses the due date by 15 or 30 days, they can still pay the premium within this specified period to avoid any disruption in coverage.\n• During this grace period, all credits (sum insured, No Claim Bonus, Specific Waiting periods, waiting periods for pre-existing diseases, Moratorium period etc.) accrued under the policy shall be protected.",
+    "sources": [
+      {
+        "source": "स्वास्थ्य बीमा व्यवसाय पर मास्टर परिपत्र _ Master Circular  on Health  Insurance Business  29052024.pdf",
+        "chunk_id": 15,
+        "score": 0.47821566462516785
+      },
+      {
+        "source": "स्वास्थ्य बीमा व्यवसाय पर मास्टर परिपत्र _ Master Circular  on Health  Insurance Business  29052024.pdf",
+        "chunk_id": 14,
+        "score": 0.5608938336372375
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 83,
+        "score": 0.6820031404495239
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 71,
+        "score": 0.7004402875900269
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 44,
+        "score": 0.7030782103538513
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 49,
+        "score": 0.7426431179046631
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 39,
+        "score": 0.7881636619567871
+      }
+    ]
+  },
+  "4327420e19c82779bbcfc1967ba5d17c": {
+    "query": "Is AYUSH treatment covered?",
+    "answer": "* This IS COVERED under the policy as it includes \"Allopathy, AYUSH and other systems of medicine\" in the list of covered treatments.\n \nPlease note that all coverages are subject to Limits, Terms and Conditions AND Exclusions contained in this Policy.",
+    "sources": [
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 15,
+        "score": 0.8886339664459229
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 16,
+        "score": 0.935691773891449
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 104,
+        "score": 1.0506303310394287
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 25,
+        "score": 1.0745995044708252
+      },
+      {
+        "source": "स्वास्थ्य बीमा व्यवसाय पर मास्टर परिपत्र _ Master Circular  on Health  Insurance Business  29052024.pdf",
+        "chunk_id": 6,
+        "score": 1.0906133651733398
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 66,
+        "score": 1.107462763786316
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 24,
+        "score": 1.1338247060775757
+      }
+    ]
+  },
+  "a2fcdbcd18ea75257ba31b3b6bb2d813": {
+    "query": "What are the sub-limits on room rent?",
+    "answer": "Here is the answer to your question:\n\n* The sub-limits on room rent are not explicitly mentioned in the provided policy documents.\nI could not find this information in the available policy documents.",
+    "sources": [
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 28,
+        "score": 0.9668588638305664
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 31,
+        "score": 1.1687678098678589
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 32,
+        "score": 1.1701197624206543
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 44,
+        "score": 1.1907436847686768
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 30,
+        "score": 1.2002092599868774
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 59,
+        "score": 1.2158501148223877
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 131,
+        "score": 1.25321626663208
+      }
+    ]
+  },
+  "cee129aba02113323d2507e119e7f476": {
+    "query": "Is there a co-payment clause in the policy?",
+    "answer": "Here is the answer to your question:\n\n* Yes, there is a co-payment clause in the policy.\n* The co-payment percentage for Insured Persons 65 years of age or over on the date of commencement of the current Policy Year is 20% (100% - 80%).\n* This means that the Insurer will pay 80% of any amount assessed for payment or reimbursement, and the balance (20%) will be borne by the Insured Person.\n* The co-payment percentage does not apply to claims made before 48 months of continuous coverage have elapsed since the inception of the first Policy with the Insurer.",
+    "sources": [
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 10,
+        "score": 0.6808152794837952
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 36,
+        "score": 0.7562312483787537
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 55,
+        "score": 0.7810755968093872
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 33,
+        "score": 0.7888944745063782
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 30,
+        "score": 0.7905635237693787
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 59,
+        "score": 0.8194025158882141
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 59,
+        "score": 0.8261463046073914
+      }
+    ]
+  },
+  "34300e3361f960cbd2f752315a57683a": {
+    "query": "What is the no claim bonus?",
+    "answer": "Here are the details about No Claim Bonus:\n\n• The Insurer may reward policyholders who do not make a claim in the form of No Claim Bonus (NCB).\n• Such NCB shall be paid as per the choice/express consent of the policyholder at the time of every renewal.\n• There are two forms of NCB:\n  • Cumulative Bonus: Addition in the Sum Insured without an associated increase in premium.\n  • Discount in renewal Premium\n• If no claim has been made under the policy with us and the policy is renewed with us and without any break or within the Grace period as defined under the policy, we will allow a cumulative bonus to the renewal policy upon receipt of premium automatically by increasing the Sum Insured by 5%.\n• The maximum cumulative bonus shall not exceed 25% of the Sum Insured in any policy year.\n• In case of a family floater cover, the cumulative bonus so applied will depend on the claim/claims made under the expiring policy and will be 5% of Sum Insured for a claim-free year.",
+    "sources": [
+      {
+        "source": "स्वास्थ्य बीमा व्यवसाय पर मास्टर परिपत्र _ Master Circular  on Health  Insurance Business  29052024.pdf",
+        "chunk_id": 21,
+        "score": 0.6901623010635376
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 81,
+        "score": 0.8295519948005676
+      },
+      {
+        "source": "स्वास्थ्य बीमा व्यवसाय पर मास्टर परिपत्र _ Master Circular  on Health  Insurance Business  29052024.pdf",
+        "chunk_id": 20,
+        "score": 0.8483002185821533
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 84,
+        "score": 0.8515578508377075
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 83,
+        "score": 0.8710458278656006
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 85,
+        "score": 0.9306912422180176
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 82,
+        "score": 0.9615057706832886
+      }
+    ]
+  },
+  "fd02ed6c938d24e6399d595ce9e21a6e": {
+    "query": "Are war related injuries covered?",
+    "answer": "Here's the answer to your question:\n\n* This IS COVERED.\n* The policy covers treatment for any illness or injury resulting from nuclear or chemical contamination, war, riot, revolution, or any similar event (other than natural disaster or calamity), if one or more of the following conditions apply:\n  • The Insured Person put himself in danger by entering a known area of conflict where active fighting or insurrections are taking place\n  • The Insured Person was an active participant in the above mentioned acts or events of a similar nature.",
+    "sources": [
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 16,
+        "score": 0.9144961833953857
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 20,
+        "score": 0.9618511199951172
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 57,
+        "score": 0.9833866953849792
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 52,
+        "score": 1.022948145866394
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 24,
+        "score": 1.045130729675293
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 66,
+        "score": 1.111879587173462
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 55,
+        "score": 1.1320946216583252
+      }
+    ]
+  },
+  "a9fedf5df0866706e752fc13ef98e91d": {
+    "query": "What is the network hospital cashless process?",
+    "answer": "Here are the steps for the Network Hospital Cashless Process:\n\n• The Insured Person must notify the insurer in writing at least 72 Hours before a planned Hospitalization.\n• In an Emergency, the Insured Person should notify the insurer in writing within 48 hours of Hospitalization.\n• Pre-authorization by the insurer is required for In-patient Treatment or Day Care Procedure.\n• Cashless treatment will be available only at Network Hospitals.\n• The treatment must take place within 15 days of the pre-authorization date.\n• Pre-authorization details (dates, Hospital, and locations) must match with the actual treatment received.\n• If pre-authorisation is not obtained, cashless facility will not be available, and claims procedure shall be as per (b)(ii) below.\n\nNote: This process is applicable only to Network Hospitals.",
+    "sources": [
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 51,
+        "score": 0.5057732462882996
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 52,
+        "score": 0.5717984437942505
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 49,
+        "score": 0.7274535894393921
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 50,
+        "score": 0.7618832588195801
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 67,
+        "score": 0.7944256663322449
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 63,
+        "score": 0.8155348896980286
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 51,
+        "score": 0.8455917835235596
+      }
+    ]
+  },
+  "bd53964f9191262dc1750f18a8f05ac0": {
+    "query": "Is HIV or AIDS covered under the policy?",
+    "answer": "Here's the answer in bullet points:\n\n• This IS EXCLUDED from coverage under the policy.\n \nThe policy excludes treatment for Human Immunodeficiency Virus (HIV) or Acquired Immuno Deficiency Syndrome (AIDS), including any condition related to HIV or AIDS.",
+    "sources": [
+      {
+        "source": "स्वास्थ्य बीमा व्यवसाय पर मास्टर परिपत्र _ Master Circular  on Health  Insurance Business  29052024.pdf",
+        "chunk_id": 10,
+        "score": 0.638678252696991
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 129,
+        "score": 0.7812430262565613
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 21,
+        "score": 0.8194255828857422
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 56,
+        "score": 0.8952273726463318
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 48,
+        "score": 0.9132858514785767
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 34,
+        "score": 0.918711245059967
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 54,
+        "score": 0.9342788457870483
+      }
+    ]
+  },
+  "de4818c4db8f29dc453659fffd4f7253": {
+    "query": "What is the policy period?",
+    "answer": "Here's the answer to your question:\n\n• According to Source 2: Health Companion-Health Insurance Plan_GEN617.pdf, \n\"Policy Period means the period between the date of commencement and the expiry date specified shown in the Schedule of Insurance Certificate.\"\n\n• Additionally, according to Source 4: Health Insurance Policy - Retail_GEN633.pdf, \n“Policy Period” means the period commencing with the commencement date of the Policy & terminating with the expiry date of the Policy as stated in the Policy Schedule.\n\nBoth sources define the policy period as the duration between the start and end dates specified in the insurance certificate or policy schedule.",
+    "sources": [
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 23,
+        "score": 0.7400453686714172
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 80,
+        "score": 0.8039763569831848
+      },
+      {
+        "source": "स्वास्थ्य बीमा व्यवसाय पर मास्टर परिपत्र _ Master Circular  on Health  Insurance Business  29052024.pdf",
+        "chunk_id": 12,
+        "score": 0.8248687386512756
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 23,
+        "score": 0.8359100222587585
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 1,
+        "score": 0.8501757979393005
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 98,
+        "score": 0.872162938117981
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 98,
+        "score": 0.8743895292282104
+      }
+    ]
+  },
+  "8b96b4600c9ef75c164bac801c464e56": {
+    "query": "Are congenital diseases covered?",
+    "answer": "Here's the answer in bullet points:\n\n* This IS COVERED for internal congenital anomalies that are not in the visible and accessible parts of the body after 24 months of continuous coverage.\n* This IS COVERED for external congenital anomalies that are in the visible and accessible parts of the body after 48 months of continuous coverage, if the insured is aware of the existence of the congenital internal disease before inception of the policy.\n* This IS NOT COVERED for congenital diseases directly or indirectly caused by or arising from war, invasion, act of foreign enemy, war-like operations (whether war be declared or not).\n* This IS COVERED under the \"Medical Expenses\" section for treatment of any congenital anomaly, as per Source 3: Health Insurance Policy - Retail_GEN633.pdf.\n* This IS COVERED under the \"Hospital accommodation\" section for convalescence and rehabilitation, including treatment for any congenital anomaly, as per Source 4: Health Companion-Health Insurance Plan.Gen617.pdf.",
+    "sources": [
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 52,
+        "score": 0.648171603679657
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 19,
+        "score": 0.83731609582901
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 18,
+        "score": 0.8540670871734619
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 17,
+        "score": 0.9194024801254272
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 64,
+        "score": 0.9292289614677429
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 10,
+        "score": 0.9577046036720276
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 72,
+        "score": 0.9589723348617554
+      }
+    ]
+  },
+  "124f0c971ee6c9752461bcec31ef4cc6": {
+    "query": "What happens if I miss the renewal date?",
+    "answer": "Here's the answer to your question:\n\n• If you fail to remit premium for renewal before expiry of the period of insurance, but notify the insurer before completion of the Policy Period, the insurer is under no obligation to notify you of the Renewal date of Your Policy.\n• The insurer will allow a Grace Period of 30 days from the due date of the Renewal premium for payment to Us.\n• If the Policy is not renewed within the Grace Period (30 days), the insurer may agree to issue a fresh Policy subject to their underwriting criteria and no continuing benefits shall be available from the expired Policy.",
+    "sources": [
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 85,
+        "score": 0.9160533547401428
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 44,
+        "score": 0.9264116287231445
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 96,
+        "score": 0.927277147769928
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 48,
+        "score": 0.9325551390647888
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 84,
+        "score": 0.9442163705825806
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 49,
+        "score": 1.0096018314361572
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 39,
+        "score": 1.0196043252944946
+      }
+    ]
+  },
+  "ebcf0fce6b4d577070070c0f9cf8dc35": {
+    "query": "Is road traffic accident covered?",
+    "answer": "Here's the answer to your question:\n\n* This IS COVERED.\n* The coverage is specified in Source 5: Health Insurance Policy - Retail_GEN633.pdf\n* The condition for this coverage is that the Insured Person must have incurred Medical Expenses within 30 days of the Commencement Date of the Policy Period, except those incurred as a result of Accidental Bodily Injury.",
+    "sources": [
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 17,
+        "score": 0.9606767296791077
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 144,
+        "score": 1.175135850906372
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 16,
+        "score": 1.1809191703796387
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 7,
+        "score": 1.1942366361618042
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 49,
+        "score": 1.1970360279083252
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 102,
+        "score": 1.2254698276519775
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 41,
+        "score": 1.2263917922973633
+      }
+    ]
+  },
+  "dfa025039da8c9d16bac5ba8e417e8fa": {
+    "query": "What is the insured's duty at the time of claim?",
+    "answer": "Here are the insured's duties at the time of claim:\n\n• The Insured shall without any delay consult a Doctor and follow the advice and treatment recommended (Source 6: Health Insurance Policy - Retail_GEN633.pdf, Claims Procedure I.1).\n• The Insured must provide intimation to Insurer immediately and in writing (Source 6: Health Insurance Policy - Retail_GEN633.pdf, Claims Procedure I.2).\n• The Insured will cooperate with Insurer at all times (Source 4: Health Insurance Policy - Retail_GEN633.pdf, b) Mis-description).\n\nNote that the insured is also required to provide necessary authorisation to the insurer for accessing medical records and medical practitioners who have attended to the patient (Source 6: Health Insurance Policy - Retail_GEN633.pdf, f) The Insured/Insured person shall extend all possible support & co-cooperation...).",
+    "sources": [
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 92,
+        "score": 0.679603099822998
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 30,
+        "score": 0.6817684769630432
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 33,
+        "score": 0.6934946179389954
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 69,
+        "score": 0.7096756100654602
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 103,
+        "score": 0.7101207375526428
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 74,
+        "score": 0.7105393409729004
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 91,
+        "score": 0.7380368113517761
+      }
+    ]
+  },
+  "b058f5f4eebd8a07a4eccd35a45e073f": {
+    "query": "Are spectacles or hearing aids covered?",
+    "answer": "* This IS NOT COVERED.\n\nAccording to Source 2: Health Insurance Policy - Retail_GEN633.pdf, policy number 12 states that \"The cost of spectacles, contact lenses, hearing aids, crutches, wheelchairs, artificial limbs, dentures, artificial teeth and all other external appliances. Prosthesis and/or devices.\" are excluded from coverage.",
+    "sources": [
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 131,
+        "score": 0.9579591751098633
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 58,
+        "score": 0.9717782735824585
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 20,
+        "score": 1.0097384452819824
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 110,
+        "score": 1.0605533123016357
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 129,
+        "score": 1.062932014465332
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 58,
+        "score": 1.0691882371902466
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 112,
+        "score": 1.083284854888916
+      }
+    ]
+  },
+  "c2b565b3c22502c00f18f57060ccd93f": {
+    "query": "What is the grievance redressal process?",
+    "answer": "Here are the steps for the grievance redressal process:\n\n• The Insured may approach the person nominated as ‘Grievance Redressal Officer’ with the details of his grievance.\n• Alternatively, the Insured may lodge a grievance at IRDAI Integrated Grievance Part E: Scope of Coverage Management System (https://igms.irda.gov.in/).\n• If the Insured is not satisfied with the redressal of grievance through 24-Hour Protection above methods, the Insured Person may also approach the office of Insurance Ombudsman of the respective area/region for redressal of grievance as per Insurance Ombudsman Rules 2017.\n• The response letter of the Insurer in any grievance shall include the contact details of company’s branches with the details of grievance.",
+    "sources": [
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 70,
+        "score": 0.8141673803329468
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 105,
+        "score": 0.8486623167991638
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 109,
+        "score": 0.8557584285736084
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 65,
+        "score": 0.9398784637451172
+      },
+      {
+        "source": "स्वास्थ्य बीमा व्यवसाय पर मास्टर परिपत्र _ Master Circular  on Health  Insurance Business  29052024.pdf",
+        "chunk_id": 26,
+        "score": 0.9662874341011047
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 107,
+        "score": 0.9771823883056641
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 108,
+        "score": 0.9861513376235962
+      }
+    ]
+  },
+  "82d6ed4a2b46bd8e68a2e3152cb8c942": {
+    "query": "Is obesity treatment covered?",
+    "answer": "Here's the answer to your question:\n\n* Treatment for obesity IS EXCLUDED (Source: Source 1, Source 3, Source 6)\n* However, treatment for morbid obesity is also EXCLUDED (Source: Source 1, Source 4)\n* There is no mention of \"weight control programs\" being covered in the provided policy documents.",
+    "sources": [
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 25,
+        "score": 0.8870671987533569
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 68,
+        "score": 0.8873885273933411
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 33,
+        "score": 0.9236330986022949
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 54,
+        "score": 0.9666297435760498
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 97,
+        "score": 1.062161922454834
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 128,
+        "score": 1.063035011291504
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 29,
+        "score": 1.0631473064422607
+      }
+    ]
+  },
+  "3960eadbf4aa7af6564d5869b4151178": {
+    "query": "What is covered under critical illness?",
+    "answer": "Here are the details on what is covered under critical illness:\n\n• This IS COVERED.\n• The Critical Illness Benefit covers any of the following illnesses upon diagnosis being:\n  • C1) Cancer of specified severity\n• The Insured Person must take all reasonable steps to avoid or reduce, as far possible, any loss or damage related to the Critical Illness.\n\nNote: There is no mention of other specific illnesses being covered under critical illness in the provided context.",
+    "sources": [
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 68,
+        "score": 0.6606229543685913
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 67,
+        "score": 0.680313229560852
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 71,
+        "score": 0.7935813069343567
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 95,
+        "score": 0.8135187029838562
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 10,
+        "score": 0.8158788681030273
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 99,
+        "score": 0.8225162029266357
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 66,
+        "score": 0.8270794153213501
+      }
+    ]
+  },
+  "e6a6d4d963b4a5572ccde60f9658ea1a": {
+    "query": "Are alternative treatments like yoga covered?",
+    "answer": "* Alternative treatments like Yoga are EXCLUDED.",
+    "sources": [
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 24,
+        "score": 0.9898567795753479
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 25,
+        "score": 1.008485198020935
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 66,
+        "score": 1.0139998197555542
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 57,
+        "score": 1.0967599153518677
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 27,
+        "score": 1.183234453201294
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 58,
+        "score": 1.1910103559494019
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 65,
+        "score": 1.1931066513061523
+      }
+    ]
+  },
+  "ceeee28ea451716181e2e165eb7ee51b": {
+    "query": "What is the portability option in health insurance?",
+    "answer": "Here are the key points about the Portability option in health insurance:\n\n• **Portability** means transfer by an Individual Health Insurance Policyholder (including family cover) of the credit gained for pre-existing conditions and time-bound exclusions if he/she chooses to switch from one insurer to another.\n\n• The Portability Benefit is available only at the time of renewal of existing health insurance policy.\n\n• To avail the Portability Benefit, the policyholder must:\n  • Give all additional documentation and/or information requested by the insurer.\n  • Pay the applicable premium in full.\n  • Comply with any medical underwriting restrictions imposed by the insurer.\n\n• The Portability Benefit is not available for all types of policies, but it is allowed in the following cases:\n  • All Individual Health Insurance Policies issued by non-life insurance companies including family floater policies.\n  • Individual members, including family members covered under any Group Health insurance policy, have the right to migrate from such a group policy to this policy.\n\n• The Portability Benefit can be exercised if the policyholder submits an application with complete documentation at least **21 days** before the expiry of their present period of insurance.\n\n• If the proposed Sum Insured is more than the insurance cover under the previous policy, the revised waiting period under General Exclusion 4(a) shall only be applicable to the extent of the insurance cover under the previous policy.",
+    "sources": [
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 38,
+        "score": 0.5114578008651733
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 43,
+        "score": 0.535224974155426
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 39,
+        "score": 0.6716782450675964
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 103,
+        "score": 0.6865327954292297
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 95,
+        "score": 0.691844642162323
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 37,
+        "score": 0.7309067249298096
+      },
+      {
+        "source": "स्वास्थ्य बीमा व्यवसाय पर मास्टर परिपत्र _ Master Circular  on Health  Insurance Business  29052024.pdf",
+        "chunk_id": 29,
+        "score": 0.7921116352081299
+      }
+    ]
+  },
+  "75f57ca5871837b4b8062db7b8aa2f40": {
+    "query": "Is self-inflicted injury covered?",
+    "answer": "Here is the answer to your question:\n\n* This IS NOT COVERED for \"Self-inflicted injuries\" as per Source 3: Group Health Insurance_2013-11-19.pdf and Source 5: Health Companion-Health Insurance Plan_GEN617.pdf.\n* Specifically, Clause 2.4 of Source 3 states that OPD Treatment is not covered, except to the extent specified in Clause 2.4, but does not explicitly mention self-inflicted injuries as an exclusion.\n* However, Source 5 mentions \"Conflict and disaster\" under Accident, which includes treatment for any illness or injury resulting from nuclear or chemical contamination, war, riot, revolution, acts of terrorism or any similar event (other than natural disaster or calamity), if one or more of the following conditions apply.",
+    "sources": [
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 60,
+        "score": 0.9808273315429688
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 25,
+        "score": 0.9840924739837646
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 29,
+        "score": 1.0374157428741455
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 17,
+        "score": 1.0376667976379395
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 16,
+        "score": 1.0392284393310547
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 26,
+        "score": 1.079839825630188
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 20,
+        "score": 1.0895427465438843
+      }
+    ]
+  },
+  "e3c62299c58b047e57c75d9680202527": {
+    "query": "What is the process to add a family member to the policy?",
+    "answer": "Here's the answer:\n\n• To add a family member to the policy, the following steps must be taken:\n  • The application for insurance cover for the additional person must be accepted by the insurer.\n  • An additional proportionate premium must be paid.\n  • The insurer must issue an endorsement confirming the addition of the person as an Insured Person.\n\nNote: This process can only be done during the policy period, and all additions and deletions must be shared with the insurer by the 15th day of the current month.",
+    "sources": [
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 63,
+        "score": 0.9456734657287598
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 65,
+        "score": 1.0399525165557861
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 67,
+        "score": 1.0503312349319458
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 71,
+        "score": 1.0549728870391846
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 95,
+        "score": 1.1009385585784912
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 62,
+        "score": 1.1038966178894043
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 42,
+        "score": 1.1426568031311035
+      }
+    ]
+  },
+  "49f68a5c8493ec2c0bf489821c21fc3b": {
+    "query": "hi",
+    "answer": "I'd be happy to help you with your question! However, I need you to rephrase or provide more details about the question so I can better assist you.\n\nPlease go ahead and ask your question, and I'll do my best to provide a clear and accurate answer using the exact terms from the provided context.",
+    "sources": [
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 124,
+        "score": 1.5999071598052979
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 63,
+        "score": 1.6440328359603882
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 85,
+        "score": 1.6527957916259766
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 111,
+        "score": 1.6644058227539062
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 92,
+        "score": 1.67526376247406
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 68,
+        "score": 1.68153715133667
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 113,
+        "score": 1.715425968170166
+      }
+    ]
+  },
+  "f3f729f39a39e867cdfc94c6cf9b4d92": {
+    "query": "What is covered under hospitalization?",
+    "answer": "Here's the answer in clear bullet points:\n\n* This IS COVERED:\n + Room, Boarding Expenses\n + Medical Practitioners fees\n + Pre-Hospitalisation and Post-Hospitalisation Expenses - Medical Expenses relevant to the same condition for which hospitalization is required incurred during the period up to 30 days prior to hospitalisation and during the period up to 60 days after discharge from the hospital (subject to primary hospitalisation claim being admissible under the policy)\n* This IS NOT COVERED:\n + External and/or durable Medical/Non-medical equipment of any kind used for diagnosis and/or treatment\n + Ambulatory devices such as walkers, crutches, belts, collars, caps, splints, slings, braces, stockings of any kind\n + Private nursing/attendant's charges incurred during Pre-Hospitalisation or Post-Hospitalisation (unless included in Room Rent)\n + Drugs or treatment not supported by prescription\n + Treatment of abnormalities, deformities, Illnesses present only because they have been passed down through the generations of the family\n + Items of personal comfort and convenience, including but not limited to: telephone, television, diet charges, personal attendant or barber or beauty services, baby food, cosmetics, napkins, toiletry items, guest services and similar incidental expenses or services",
+    "sources": [
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 73,
+        "score": 0.6923311948776245
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 27,
+        "score": 0.7333588600158691
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 10,
+        "score": 0.7345931529998779
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 13,
+        "score": 0.7378175258636475
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 1,
+        "score": 0.7414265275001526
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 26,
+        "score": 0.7465469837188721
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 72,
+        "score": 0.7558801174163818
+      }
+    ]
+  },
+  "1a351078855c93c0e6fd1fd727466f50": {
+    "query": "Is dental treatment covered?",
+    "answer": "Here is the answer:\n\n* This IS covered under the policy.\n* Dental Treatment means a treatment related to teeth or structures supporting teeth, including examinations, fillings (where appropriate), crowns, extractions, and surgery. \n* However, this exclusion does not apply where medically required as a part of treatment for cancer, accidents, and burns to restore functionality.\n* Cosmetic surgery is excluded unless it's Medically Necessary as a part of treatment for cancer or Injury resulting from Accidents or burns and is required to restore functionality.\n* Treatment for any dental or oral condition that includes surgical procedures for the treatment of bone disease when related to gum disease or damage, or treatment for, or treatment arising from, disorders of the tempromandibular joint is EXCLUDED.",
+    "sources": [
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 18,
+        "score": 0.7480270862579346
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 22,
+        "score": 0.7518388628959656
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 23,
+        "score": 0.8769487142562866
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 87,
+        "score": 0.9359932541847229
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 23,
+        "score": 0.9411190748214722
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 25,
+        "score": 1.001854419708252
+      },
+      {
+        "source": "Health Insurance Policy - Retail_GEN633.pdf",
+        "chunk_id": 60,
+        "score": 1.0141535997390747
+      }
+    ]
+  },
+  "dba6e550204c5b2a88e50426cf1061cf": {
+    "query": "Hey how are you?",
+    "answer": "I could not find this information in the available policy documents. The user's question seems to be a greeting and does not relate to any specific health insurance-related query.",
+    "sources": [
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 95,
+        "score": 1.6826080083847046
+      },
+      {
+        "source": "Health Companion-Health Insurance Plan_GEN617.pdf",
+        "chunk_id": 75,
+        "score": 1.6938945055007935
+      },
+      {
+        "source": "Group Health Insurance_2013-11-19.pdf",
+        "chunk_id": 17,
+        "score": 1.6953494548797607
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 125,
+        "score": 1.7330185174942017
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 30,
+        "score": 1.750126838684082
+      },
+      {
+        "source": "TATHLIP21255V022021_2020-2021.pdf",
+        "chunk_id": 81,
+        "score": 1.764837384223938
+      },
+      {
+        "source": "UIIHCS20015V011920_2019-2020.pdf",
+        "chunk_id": 114,
+        "score": 1.7691925764083862
+      }
+    ]
+  }
+}
