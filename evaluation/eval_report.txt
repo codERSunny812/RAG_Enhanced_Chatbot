@@ -1,0 +1,442 @@
+RAG INSURANCE CHATBOT — EVALUATION REPORT
+============================================================
+
+Total Questions    : 40
+Keyword Accuracy   : 74.2%
+Faithfulness Score : 97.5%
+Avg Response Time  : 0.0s
+
+============================================================
+
+Q1: What is the waiting period for pre-existing diseases?
+Keyword Score : 1.0 | Faithful: True
+Matched       : ['waiting period', 'pre-existing', '48 months', '4 years', 'consecutive months']
+Missed        : []
+Answer        : Here's the answer to your question:
+
+* The waiting period for pre-existing diseases is 48 months.
+* This means that benefits will not be available for any condition, whether diagnosed or not, ailment or injury or related condition(s) for which the Insured has been diagnosed, received medical treatme...
+------------------------------------------------------------
+
+Q2: What expenses are covered during hospitalization?
+Keyword Score : 0.67 | Faithful: True
+Matched       : ['room', 'boarding', 'fees', 'medicines']
+Missed        : ['doctor', 'operation theatre']
+Answer        : Here is the answer to your question:
+
+• This IS covered:
+  • Room, Boarding Expenses
+  • Medical Practitioners fees
+  • Intensive Care Unit
+  • Nursing Expenses
+  • Surgical fees, operating theatre, Anesthetist, Anesthesia, Blood,
+    Oxygen and their administration,
+  • Physio therapy while being t...
+------------------------------------------------------------
+
+Q3: Is maternity benefit covered under the policy?
+Keyword Score : 0.75 | Faithful: True
+Matched       : ['maternity', 'covered', 'benefit']
+Missed        : ['renewal']
+Answer        : Here's the answer to your question:
+
+* Maternity benefit IS COVERED under the policy.
+* However, it is mentioned in Source 2: UIIHCS20015V011920_2019-2020.pdf that "Maternity Benefit Endorsement" is available as an additional benefit.
+
+No further information is provided about maternity benefits in t...
+------------------------------------------------------------
+
+Q4: What is the waiting period for cataract surgery?
+Keyword Score : 0.4 | Faithful: True
+Matched       : ['cataract', 'waiting']
+Missed        : ['months', 'years', 'covered']
+Answer        : Here's the answer:
+
+* The waiting period for cataract surgery is 30 days.
+* This means that no benefit shall be payable during the term of the Policy for the claim which occurs or where the hospitalisation for the claim has occurred within 30 days of first Policy issue Date....
+------------------------------------------------------------
+
+Q5: Are ambulance charges covered?
+Keyword Score : 1.0 | Faithful: True
+Matched       : ['ambulance', 'covered', 'charges', 'emergency']
+Missed        : []
+Answer        : Here's the answer:
+
+• This IS covered.
+• The policy will cover Reasonable and Customary Charges for ambulance expenses as specified in the Schedule of Insurance Certificate.
+• The maximum liability for ambulance expenses is limited to 1% of Sum Insured per Policy period up to a maximum of INR 1500, ...
+------------------------------------------------------------
+
+Q6: What is not covered under the policy?
+Keyword Score : 0.5 | Faithful: True
+Matched       : ['exclusion', 'not covered']
+Missed        : ['dental', 'cosmetic']
+Answer        : Based on the provided context, here are the exclusions that are NOT covered under the policy:
+
+• Gastric or duodenal ulcers (EXCLUDED for the first year of cover)
+• Tonsillectomy (EXCLUDED for the first year of cover)
+• Adenoidectomy (EXCLUDED for the first year of cover)
+• Mastoidectomy (EXCLUDED f...
+------------------------------------------------------------
+
+Q7: What documents are needed for a claim?
+Keyword Score : 1.0 | Faithful: True
+Matched       : ['claim', 'documents', 'hospital', 'bills', 'discharge']
+Missed        : []
+Answer        : Here are the required documents for a claim:
+
+• Duly filled claim form.
+• Original bills, receipts and discharge certificate/card from the Hospital/ Medical Practitioner. 
+  - Self attested copies of bills, Page 15 of 44
+• Original bills from chemists supported by proper prescription.
+• Original con...
+------------------------------------------------------------
+
+Q8: What is the renewal process for the policy?
+Keyword Score : 1.0 | Faithful: True
+Matched       : ['renewal', 'premium', 'policy']
+Missed        : []
+Answer        : Here are the key points about the renewal process for the policy:
+
+* Renewal means the terms on which the contract of insurance can be renewed on mutual consent with a provision of grace period.
+* The grace period is 1 month.
+* Any notice, direction or instruction given under this Policy shall be in...
+------------------------------------------------------------
+
+Q9: Is dental treatment covered under the policy?
+Keyword Score : 0.67 | Faithful: True
+Matched       : ['dental', 'excluded']
+Missed        : ['not covered']
+Answer        : Here's the answer to your question:
+
+* Dental treatment IS COVERED under the policy.
+* However, there are exclusions for certain types of dental treatments:
+ + Cosmetic surgery is EXCLUDED unless it is medically required as a part of treatment for cancer, accidents and burns to restore functionality...
+------------------------------------------------------------
+
+Q10: What is the definition of a pre-existing disease?
+Keyword Score : 1.0 | Faithful: True
+Matched       : ['pre-existing', 'diagnosed', '48 months', 'signs', 'symptoms']
+Missed        : []
+Answer        : Here is the answer to your question:
+
+* The definition of a Pre-Existing Disease is given in Def. 39 of the policy document.
+* A Pre-Existing Disease means any condition, ailment or Injury or related condition(s) for which you had signs or symptoms, and / or were diagnosed, and / or received medical...
+------------------------------------------------------------
+
+Q11: Are daycare procedures covered?
+Keyword Score : 0.5 | Faithful: True
+Matched       : ['covered', 'procedure']
+Missed        : ['daycare', '24 hours']
+Answer        : Here's the answer to your question:
+
+• This IS COVERED under the policy.
+
+Specifically, as per Source 3: UIIHCS20015V011920_2019-2020.pdf and Source 6: Health Insurance Policy - Retail_GEN633.pdf, "Day Care Treatment" is defined as a medical treatment, and/or surgical procedure which is undertaken u...
+------------------------------------------------------------
+
+Q12: What is the sum insured under the policy?
+Keyword Score : 0.75 | Faithful: True
+Matched       : ['sum insured', 'amount', 'limit']
+Missed        : ['coverage']
+Answer        : Here's the answer:
+
+* The Sum Insured limit available for the Insured Person will be 125% of the amount arrived after deducting the claims paid and/or outstanding from sum insured as on the date of accident for the Insured Person under the policy.
+* This means that the maximum Sum Insured is calcula...
+------------------------------------------------------------
+
+Q13: Is cosmetic surgery covered?
+Keyword Score : 0.75 | Faithful: True
+Matched       : ['cosmetic', 'excluded', 'surgery']
+Missed        : ['not covered']
+Answer        : Here's the answer to your question:
+
+* Cosmetic Surgery is EXCLUDED.
+* This exclusion applies unless such treatment is Medically Necessary as a part of treatment for cancer or Injury resulting from Accidents or burns and is required to restore functionality....
+------------------------------------------------------------
+
+Q14: What is the free look period?
+Keyword Score : 0.6 | Faithful: True
+Matched       : ['free look', 'days', 'period']
+Missed        : ['cancel', 'refund']
+Answer        : Here's the answer to your question:
+
+• The free look period is applicable at the inception of the first policy.
+• You will be allowed a period of at least 15 days from the date of receipt of the policy to review the terms and conditions of the policy and to return the same if not acceptable.
+
+This I...
+------------------------------------------------------------
+
+Q15: Are pre and post hospitalization expenses covered?
+Keyword Score : 0.6 | Faithful: True
+Matched       : ['days', 'covered', 'expenses']
+Missed        : ['pre-hospitalisation', 'post-hospitalisation']
+Answer        : Here are the answers to your question:
+
+* Pre-hospitalization Medical Expenses: This IS COVERED up to 30 days immediately before an Insured Person's admission for the same Illness.
+* Post-hospitalization Medical Expenses: This IS COVERED up to 60 days immediately after an Insured Person's discharge ...
+------------------------------------------------------------
+
+Q16: What is covered under domiciliary hospitalization?
+Keyword Score : 1.0 | Faithful: True
+Matched       : ['domiciliary', 'home', 'treatment', 'condition']
+Missed        : []
+Answer        : Here's the answer in clear bullet points:
+
+• This IS COVERED under the policy.
+• Domiciliary Hospitalisation means medical treatment for a period exceeding 3 days for an illness/disease/injury which in the normal course would require care and treatment at a Hospital/nursing home.
+• The condition of ...
+------------------------------------------------------------
+
+Q17: Is mental illness covered under the policy?
+Keyword Score : 1.0 | Faithful: True
+Matched       : ['mental', 'illness', 'psychiatric', 'covered']
+Missed        : []
+Answer        : Here's the answer to your question:
+
+* This IS NOT COVERED under the policy.
+ 
+The policy explicitly states that it does not cover any mental illness or sickness or disease, including psychiatric conditions, disorganisation of personality or mind, or emotions or behaviour....
+------------------------------------------------------------
+
+Q18: What is the claim settlement process?
+Keyword Score : 0.5 | Faithful: True
+Matched       : ['claim', 'settlement']
+Missed        : ['cashless', 'reimbursement']
+Answer        : Here's the claim settlement process as per the provided policy documents:
+
+• The insurer shall settle or reject a claim within 30 days from the date of receipt of the last necessary document.
+
+• In case of delay in the payment of a claim, the company shall pay interest to the extent of the payment.
+...
+------------------------------------------------------------
+
+Q19: Are organ donor expenses covered?
+Keyword Score : 1.0 | Faithful: True
+Matched       : ['organ', 'donor', 'transplant', 'covered']
+Missed        : []
+Answer        : Here's the answer to your question:
+
+• This IS COVERED for an organ donor’s treatment for the harvesting of the organ donated provided that:
+  a. The donation conforms to The Transplantation of Human Organs Act 1994 and the organ is for the use of the Insured Person;
+  b. The Insured Person has been...
+------------------------------------------------------------
+
+Q20: What is the grace period for premium payment?
+Keyword Score : 0.75 | Faithful: True
+Matched       : ['grace period', 'premium', 'days']
+Missed        : ['lapse']
+Answer        : Here are the details about the grace period for premium payment:
+
+• The grace period for premium payment is 15 days for monthly instalments and 30 days for quarterly/half-yearly/annual instalments.
+• This means that if a policyholder pays their premium on time, but misses the due date by 15 or 30 da...
+------------------------------------------------------------
+
+Q21: Is AYUSH treatment covered?
+Keyword Score : 0.5 | Faithful: True
+Matched       : ['AYUSH', 'covered']
+Missed        : ['ayurveda', 'homeopathy']
+Answer        : * This IS COVERED under the policy as it includes "Allopathy, AYUSH and other systems of medicine" in the list of covered treatments.
+ 
+Please note that all coverages are subject to Limits, Terms and Conditions AND Exclusions contained in this Policy....
+------------------------------------------------------------
+
+Q22: What are the sub-limits on room rent?
+Keyword Score : 0.5 | Faithful: False
+Matched       : ['room rent', 'sub-limit']
+Missed        : ['per day', 'ICU']
+Answer        : Here is the answer to your question:
+
+* The sub-limits on room rent are not explicitly mentioned in the provided policy documents.
+I could not find this information in the available policy documents....
+------------------------------------------------------------
+
+Q23: Is there a co-payment clause in the policy?
+Keyword Score : 0.75 | Faithful: True
+Matched       : ['co-payment', 'policy', 'insured']
+Missed        : ['copay']
+Answer        : Here is the answer to your question:
+
+* Yes, there is a co-payment clause in the policy.
+* The co-payment percentage for Insured Persons 65 years of age or over on the date of commencement of the current Policy Year is 20% (100% - 80%).
+* This means that the Insurer will pay 80% of any amount assess...
+------------------------------------------------------------
+
+Q24: What is the no claim bonus?
+Keyword Score : 1.0 | Faithful: True
+Matched       : ['no claim bonus', 'NCB', 'renewal', 'increase', 'sum insured']
+Missed        : []
+Answer        : Here are the details about No Claim Bonus:
+
+• The Insurer may reward policyholders who do not make a claim in the form of No Claim Bonus (NCB).
+• Such NCB shall be paid as per the choice/express consent of the policyholder at the time of every renewal.
+• There are two forms of NCB:
+  • Cumulative Bo...
+------------------------------------------------------------
+
+Q25: Are war related injuries covered?
+Keyword Score : 0.5 | Faithful: True
+Matched       : ['war', 'injury']
+Missed        : ['excluded', 'not covered']
+Answer        : Here's the answer to your question:
+
+* This IS COVERED.
+* The policy covers treatment for any illness or injury resulting from nuclear or chemical contamination, war, riot, revolution, or any similar event (other than natural disaster or calamity), if one or more of the following conditions apply:
+ ...
+------------------------------------------------------------
+
+Q26: What is the network hospital cashless process?
+Keyword Score : 0.8 | Faithful: True
+Matched       : ['network', 'cashless', 'hospital', 'authorization']
+Missed        : ['TPA']
+Answer        : Here are the steps for the Network Hospital Cashless Process:
+
+• The Insured Person must notify the insurer in writing at least 72 Hours before a planned Hospitalization.
+• In an Emergency, the Insured Person should notify the insurer in writing within 48 hours of Hospitalization.
+• Pre-authorizatio...
+------------------------------------------------------------
+
+Q27: Is HIV or AIDS covered under the policy?
+Keyword Score : 0.75 | Faithful: True
+Matched       : ['HIV', 'AIDS', 'excluded']
+Missed        : ['covered']
+Answer        : Here's the answer in bullet points:
+
+• This IS EXCLUDED from coverage under the policy.
+ 
+The policy excludes treatment for Human Immunodeficiency Virus (HIV) or Acquired Immuno Deficiency Syndrome (AIDS), including any condition related to HIV or AIDS....
+------------------------------------------------------------
+
+Q28: What is the policy period?
+Keyword Score : 0.5 | Faithful: True
+Matched       : ['policy period', 'term']
+Missed        : ['annual', 'year']
+Answer        : Here's the answer to your question:
+
+• According to Source 2: Health Companion-Health Insurance Plan_GEN617.pdf, 
+"Policy Period means the period between the date of commencement and the expiry date specified shown in the Schedule of Insurance Certificate."
+
+• Additionally, according to Source 4: He...
+------------------------------------------------------------
+
+Q29: Are congenital diseases covered?
+Keyword Score : 0.75 | Faithful: True
+Matched       : ['congenital', 'covered', 'months']
+Missed        : ['waiting']
+Answer        : Here's the answer in bullet points:
+
+* This IS COVERED for internal congenital anomalies that are not in the visible and accessible parts of the body after 24 months of continuous coverage.
+* This IS COVERED for external congenital anomalies that are in the visible and accessible parts of the body a...
+------------------------------------------------------------
+
+Q30: What happens if I miss the renewal date?
+Keyword Score : 0.5 | Faithful: True
+Matched       : ['grace period', 'renewal']
+Missed        : ['lapse', 'reinstatement']
+Answer        : Here's the answer to your question:
+
+• If you fail to remit premium for renewal before expiry of the period of insurance, but notify the insurer before completion of the Policy Period, the insurer is under no obligation to notify you of the Renewal date of Your Policy.
+• The insurer will allow a Gra...
+------------------------------------------------------------
+
+Q31: Is road traffic accident covered?
+Keyword Score : 0.75 | Faithful: True
+Matched       : ['accident', 'covered', 'injury']
+Missed        : ['road']
+Answer        : Here's the answer to your question:
+
+* This IS COVERED.
+* The coverage is specified in Source 5: Health Insurance Policy - Retail_GEN633.pdf
+* The condition for this coverage is that the Insured Person must have incurred Medical Expenses within 30 days of the Commencement Date of the Policy Period, ...
+------------------------------------------------------------
+
+Q32: What is the insured's duty at the time of claim?
+Keyword Score : 0.4 | Faithful: True
+Matched       : ['claim', 'insured']
+Missed        : ['notify', 'hospital', 'documents']
+Answer        : Here are the insured's duties at the time of claim:
+
+• The Insured shall without any delay consult a Doctor and follow the advice and treatment recommended (Source 6: Health Insurance Policy - Retail_GEN633.pdf, Claims Procedure I.1).
+• The Insured must provide intimation to Insurer immediately and ...
+------------------------------------------------------------
+
+Q33: Are spectacles or hearing aids covered?
+Keyword Score : 1.0 | Faithful: True
+Matched       : ['spectacles', 'hearing aid', 'excluded', 'not covered']
+Missed        : []
+Answer        : * This IS NOT COVERED.
+
+According to Source 2: Health Insurance Policy - Retail_GEN633.pdf, policy number 12 states that "The cost of spectacles, contact lenses, hearing aids, crutches, wheelchairs, artificial limbs, dentures, artificial teeth and all other external appliances. Prosthesis and/or dev...
+------------------------------------------------------------
+
+Q34: What is the grievance redressal process?
+Keyword Score : 0.75 | Faithful: True
+Matched       : ['grievance', 'ombudsman', 'IRDAI']
+Missed        : ['complaint']
+Answer        : Here are the steps for the grievance redressal process:
+
+• The Insured may approach the person nominated as ‘Grievance Redressal Officer’ with the details of his grievance.
+• Alternatively, the Insured may lodge a grievance at IRDAI Integrated Grievance Part E: Scope of Coverage Management System (h...
+------------------------------------------------------------
+
+Q35: Is obesity treatment covered?
+Keyword Score : 1.0 | Faithful: True
+Matched       : ['obesity', 'excluded', 'covered', 'treatment']
+Missed        : []
+Answer        : Here's the answer to your question:
+
+* Treatment for obesity IS EXCLUDED (Source: Source 1, Source 3, Source 6)
+* However, treatment for morbid obesity is also EXCLUDED (Source: Source 1, Source 4)
+* There is no mention of "weight control programs" being covered in the provided policy documents....
+------------------------------------------------------------
+
+Q36: What is covered under critical illness?
+Keyword Score : 0.8 | Faithful: True
+Matched       : ['critical', 'illness', 'covered', 'cancer']
+Missed        : ['heart']
+Answer        : Here are the details on what is covered under critical illness:
+
+• This IS COVERED.
+• The Critical Illness Benefit covers any of the following illnesses upon diagnosis being:
+  • C1) Cancer of specified severity
+• The Insured Person must take all reasonable steps to avoid or reduce, as far possible,...
+------------------------------------------------------------
+
+Q37: Are alternative treatments like yoga covered?
+Keyword Score : 0.5 | Faithful: True
+Matched       : ['yoga', 'alternative']
+Missed        : ['AYUSH', 'covered']
+Answer        : * Alternative treatments like Yoga are EXCLUDED....
+------------------------------------------------------------
+
+Q38: What is the portability option in health insurance?
+Keyword Score : 1.0 | Faithful: True
+Matched       : ['portability', 'transfer', 'insurer', 'waiting period']
+Missed        : []
+Answer        : Here are the key points about the Portability option in health insurance:
+
+• **Portability** means transfer by an Individual Health Insurance Policyholder (including family cover) of the credit gained for pre-existing conditions and time-bound exclusions if he/she chooses to switch from one insurer ...
+------------------------------------------------------------
+
+Q39: Is self-inflicted injury covered?
+Keyword Score : 0.75 | Faithful: True
+Matched       : ['self-inflicted', 'not covered', 'injury']
+Missed        : ['excluded']
+Answer        : Here is the answer to your question:
+
+* This IS NOT COVERED for "Self-inflicted injuries" as per Source 3: Group Health Insurance_2013-11-19.pdf and Source 5: Health Companion-Health Insurance Plan_GEN617.pdf.
+* Specifically, Clause 2.4 of Source 3 states that OPD Treatment is not covered, except to...
+------------------------------------------------------------
+
+Q40: What is the process to add a family member to the policy?
+Keyword Score : 0.75 | Faithful: True
+Matched       : ['add', 'family', 'endorsement']
+Missed        : ['floater']
+Answer        : Here's the answer:
+
+• To add a family member to the policy, the following steps must be taken:
+  • The application for insurance cover for the additional person must be accepted by the insurer.
+  • An additional proportionate premium must be paid.
+  • The insurer must issue an endorsement confirming...
+------------------------------------------------------------
+

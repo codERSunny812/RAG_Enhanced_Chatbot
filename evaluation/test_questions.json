@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+  "question": "What is the waiting period for pre-existing diseases?",
+  "expected_keywords": ["waiting period", "pre-existing", "48 months", "4 years", "consecutive months"]
+  },
+  {
+    "id": 2,
+    "question": "What expenses are covered during hospitalization?",
+    "expected_keywords": ["room", "boarding", "doctor", "fees", "medicines", "operation theatre"]
+  },
+  {
+    "id": 3,
+    "question": "Is maternity benefit covered under the policy?",
+    "expected_keywords": ["maternity", "covered", "benefit", "renewal"]
+  },
+  {
+    "id": 4,
+    "question": "What is the waiting period for cataract surgery?",
+    "expected_keywords": ["cataract", "waiting", "months", "years","covered"]
+  },
+  {
+    "id": 5,
+    "question": "Are ambulance charges covered?",
+    "expected_keywords": ["ambulance", "covered", "charges", "emergency"]
+  },
+  {
+    "id": 6,
+    "question": "What is not covered under the policy?",
+    "expected_keywords": ["exclusion", "not covered", "dental", "cosmetic"]
+  },
+  {
+    "id": 7,
+    "question": "What documents are needed for a claim?",
+    "expected_keywords": ["claim", "documents", "hospital", "bills", "discharge"]
+  },
+  {
+    "id": 8,
+    "question": "What is the renewal process for the policy?",
+    "expected_keywords": ["renewal", "premium", "policy"]
+  },
+  {
+    "id": 9,
+    "question": "Is dental treatment covered under the policy?",
+    "expected_keywords": ["dental", "excluded", "not covered"]
+  },
+  {
+    "id": 10,
+    "question": "What is the definition of a pre-existing disease?",
+    "expected_keywords": ["pre-existing", "diagnosed", "48 months", "signs", "symptoms"]
+  },
+  {
+    "id": 11,
+    "question": "Are daycare procedures covered?",
+    "expected_keywords": ["daycare", "24 hours", "covered", "procedure"]
+  },
+  {
+    "id": 12,
+    "question": "What is the sum insured under the policy?",
+    "expected_keywords": ["sum insured", "amount", "limit", "coverage"]
+  },
+  {
+    "id": 13,
+    "question": "Is cosmetic surgery covered?",
+    "expected_keywords": ["cosmetic", "excluded", "not covered", "surgery"]
+  },
+  {
+    "id": 14,
+    "question": "What is the free look period?",
+    "expected_keywords": ["free look", "cancel", "refund", "days", "period"]
+  },
+  {
+    "id": 15,
+    "question": "Are pre and post hospitalization expenses covered?",
+    "expected_keywords": ["pre-hospitalisation", "post-hospitalisation", "days", "covered", "expenses"]
+  },
+  {
+    "id": 16,
+    "question": "What is covered under domiciliary hospitalization?",
+    "expected_keywords": ["domiciliary", "home", "treatment", "condition"]
+  },
+  {
+    "id": 17,
+    "question": "Is mental illness covered under the policy?",
+    "expected_keywords": ["mental", "illness", "psychiatric", "covered"]
+  },
+  {
+    "id": 18,
+    "question": "What is the claim settlement process?",
+    "expected_keywords": ["claim", "settlement", "cashless", "reimbursement"]
+  },
+  {
+    "id": 19,
+    "question": "Are organ donor expenses covered?",
+    "expected_keywords": ["organ", "donor", "transplant", "covered"]
+  },
+  {
+    "id": 20,
+    "question": "What is the grace period for premium payment?",
+    "expected_keywords": ["grace period", "premium", "days", "lapse"]
+  },
+  {
+    "id": 21,
+    "question": "Is AYUSH treatment covered?",
+    "expected_keywords": ["AYUSH", "ayurveda", "homeopathy", "covered"]
+  },
+  {
+    "id": 22,
+    "question": "What are the sub-limits on room rent?",
+    "expected_keywords": ["room rent", "sub-limit", "per day", "ICU"]
+  },
+  {
+    "id": 23,
+    "question": "Is there a co-payment clause in the policy?",
+    "expected_keywords": ["co-payment", "copay", "policy", "insured"]
+  },
+  {
+    "id": 24,
+    "question": "What is the no claim bonus?",
+    "expected_keywords": ["no claim bonus", "NCB", "renewal", "increase", "sum insured"]
+  },
+  {
+    "id": 25,
+    "question": "Are war related injuries covered?",
+    "expected_keywords": ["war", "excluded", "not covered", "injury"]
+  },
+  {
+    "id": 26,
+    "question": "What is the network hospital cashless process?",
+    "expected_keywords": ["network", "cashless", "hospital", "TPA", "authorization"]
+  },
+  {
+    "id": 27,
+    "question": "Is HIV or AIDS covered under the policy?",
+    "expected_keywords": ["HIV", "AIDS", "excluded", "covered"]
+  },
+  {
+    "id": 28,
+    "question": "What is the policy period?",
+    "expected_keywords": ["policy period", "annual", "year", "term"]
+  },
+  {
+    "id": 29,
+    "question": "Are congenital diseases covered?",
+    "expected_keywords": ["congenital", "covered", "waiting", "months"]
+  },
+  {
+    "id": 30,
+    "question": "What happens if I miss the renewal date?",
+    "expected_keywords": ["lapse", "grace period", "renewal", "reinstatement"]
+  },
+  {
+    "id": 31,
+    "question": "Is road traffic accident covered?",
+    "expected_keywords": ["accident", "covered", "road", "injury"]
+  },
+  {
+    "id": 32,
+    "question": "What is the insured's duty at the time of claim?",
+    "expected_keywords": ["notify", "claim", "hospital", "documents", "insured"]
+  },
+  {
+    "id": 33,
+    "question": "Are spectacles or hearing aids covered?",
+    "expected_keywords": ["spectacles", "hearing aid", "excluded", "not covered"]
+  },
+  {
+    "id": 34,
+    "question": "What is the grievance redressal process?",
+    "expected_keywords": ["grievance", "complaint", "ombudsman", "IRDAI"]
+  },
+  {
+    "id": 35,
+    "question": "Is obesity treatment covered?",
+    "expected_keywords": ["obesity", "excluded", "covered", "treatment"]
+  },
+  {
+    "id": 36,
+    "question": "What is covered under critical illness?",
+    "expected_keywords": ["critical", "illness", "covered", "cancer", "heart"]
+  },
+  {
+    "id": 37,
+    "question": "Are alternative treatments like yoga covered?",
+    "expected_keywords": ["yoga", "AYUSH", "alternative", "covered"]
+  },
+  {
+    "id": 38,
+    "question": "What is the portability option in health insurance?",
+    "expected_keywords": ["portability", "transfer", "insurer", "waiting period"]
+  },
+  {
+    "id": 39,
+    "question": "Is self-inflicted injury covered?",
+    "expected_keywords": ["self-inflicted", "excluded", "not covered", "injury"]
+  },
+  {
+    "id": 40,
+    "question": "What is the process to add a family member to the policy?",
+    "expected_keywords": ["add", "family", "endorsement", "floater"]
+  }
+]
