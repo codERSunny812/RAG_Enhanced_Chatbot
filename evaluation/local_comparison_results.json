@@ -1,0 +1,28 @@
+{
+  "summary": {
+    "rag_accuracy": "70.0%",
+    "rag_relevance": "67.4%",
+    "llama_accuracy": "67.5%",
+    "llama_relevance": "67.4%",
+    "improvement_accuracy": "2.5%",
+    "improvement_relevance": "0.1%"
+  },
+  "by_category": {
+    "Insurance Laws and Regulations": {
+      "count": 1,
+      "rag_accuracy": 0.0
+    },
+    "Policy Administration and Contract Validity": {
+      "count": 5,
+      "rag_accuracy": 0.8
+    },
+    "Interpretation of Insurance Clauses": {
+      "count": 3,
+      "rag_accuracy": 1.0
+    },
+    "Principles and Fundamentals of Insurance": {
+      "count": 31,
+      "rag_accuracy": 0.6774193548387096
+    }
+  }
+}

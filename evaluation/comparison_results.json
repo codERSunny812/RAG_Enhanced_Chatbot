@@ -1,0 +1,126 @@
+{
+  "summary": {
+    "rag_accuracy": "75.3%",
+    "gpt_accuracy": "0.0%",
+    "rag_wins": true
+  },
+  "results": [
+    {
+      "question": "What is the waiting period for pre-existing diseases?",
+      "rag_answer": "According to Source 4: Health Insurance Policy - Retail_GEN633.pdf, the waiting period for pre-existing diseases is:\n\n* 48 consecutive months (4 years) from the date of inception of the first policy with Insurer.\n* However, if the Insured has maintained the Health Insurance Policy with Insurer for a continuous period of a full 4 years, this exclusion shall cease to apply.\n\nThis IS covered.",
+      "gpt_answer": "API Error: 429",
+      "rag_score": 0.8,
+      "gpt_score": 0.0,
+      "rag_matched": [
+        "waiting period",
+        "pre-existing",
+        "48 months(partial)",
+        "4 years",
+        "consecutive months"
+      ],
+      "rag_missed": [],
+      "gpt_matched": [],
+      "gpt_missed": [
+        "waiting period",
+        "pre-existing",
+        "48 months",
+        "4 years",
+        "consecutive months"
+      ]
+    },
+    {
+      "question": "What expenses are covered during hospitalization?",
+      "rag_answer": "Based on the provided policy documents, the following expenses are covered during hospitalization:\n\n• Room and Boarding Expenses\n• Medical Practitioners' fees\n• Surgical operations including pre and post-operative care\n• Nursing care, drugs, and surgical dressings\n• Operation theatre charges\n• Diagnostic procedures and therapies\n• The cost of prosthetics and other devices or equipment if implanted internally during a surgical operation\n\nThis IS covered.",
+      "gpt_answer": "API Error: 429",
+      "rag_score": 0.6666666666666666,
+      "gpt_score": 0.0,
+      "rag_matched": [
+        "room",
+        "boarding",
+        "fees",
+        "operation theatre"
+      ],
+      "rag_missed": [
+        "doctor",
+        "medicines"
+      ],
+      "gpt_matched": [],
+      "gpt_missed": [
+        "room",
+        "boarding",
+        "doctor",
+        "fees",
+        "medicines",
+        "operation theatre"
+      ]
+    },
+    {
+      "question": "Is maternity benefit covered under the policy?",
+      "rag_answer": "This IS covered.\n\nAccording to Source 5: Health Companion-Health Insurance Plan_GEN617.pdf, Policy Document – Part II:\n\n* The Policy covers reasonable expenses incurred towards medical treatment taken during the Policy Period for an Illness, Accident or condition described below if this is contracted or sustained by an Insured Person during the Policy Period and subject always to the Sum Insured...\n* Maternity benefit is not explicitly mentioned in the provided context.",
+      "gpt_answer": "API Error: 429",
+      "rag_score": 0.75,
+      "gpt_score": 0.0,
+      "rag_matched": [
+        "maternity",
+        "covered",
+        "benefit"
+      ],
+      "rag_missed": [
+        "renewal"
+      ],
+      "gpt_matched": [],
+      "gpt_missed": [
+        "maternity",
+        "covered",
+        "benefit",
+        "renewal"
+      ]
+    },
+    {
+      "question": "What is the waiting period for cataract surgery?",
+      "rag_answer": "This IS NOT covered / EXCLUDED.\n\nAccording to Source 4: Health Insurance Policy - Retail_GEN633.pdf, the following diseases/illnesses are excluded from cover for the first two years of the policy:\n\n* Cataract\n* Benign Prostatic Hypertrophy\n* Hysterectomy/myomectomy for menorrhagia or fibromyoma or prolapse of uterus\n* Hypertension, Heart Disease and related complications\n* Diabetes and related complications\n* Non-infective Arthritis, Treatment of Spondylosis/Spondylitis, Gout & Rheumatism\n* Surgery of Genitourinary tract\n* Calculus Diseases of any etiology\n\nThere is no specific waiting period mentioned for cataract surgery in the provided policy documents.",
+      "gpt_answer": "API Error: 429",
+      "rag_score": 0.8,
+      "gpt_score": 0.0,
+      "rag_matched": [
+        "cataract",
+        "waiting",
+        "years",
+        "covered"
+      ],
+      "rag_missed": [
+        "months"
+      ],
+      "gpt_matched": [],
+      "gpt_missed": [
+        "cataract",
+        "waiting",
+        "months",
+        "years",
+        "covered"
+      ]
+    },
+    {
+      "question": "Are ambulance charges covered?",
+      "rag_answer": "Based on the provided policy documents, here is the answer:\n\n* For Group Health Insurance Policy (Source 1):\n + Reasonable and Customary Charges for ambulance expenses are covered if:\n - The ambulance service is offered by a healthcare or ambulance service provider;\n - We have accepted an Inpatient Care Hospitalisation claim under Clause 2.1.1.\n + Maximum liability for ambulance expenses is limited to Rs.2,000/- per event in case of Out-Of-Network Hospitalization (Source 2).\n* For Health Companion – Health Insurance Plan (Source 2):\n + Reasonable and Customary ambulance expenses are covered if:\n - The ambulance service is offered by a healthcare or ambulance service provider;\n - We have accepted an In-patient Hospitalization claim under the provisions of 2.1 above.\n + Maximum liability for ambulance expenses is limited to Rs.2,000/- per event in case of Out-Of-Network Hospitalization.\n* For Health Insurance Policy – Retail (Source 4):\n + 1% of Sum Insured per Policy period up to a maximum of INR 1500 will be reimbursed to Insured for the cost of ambulance transportation.\n\nThis IS covered.",
+      "gpt_answer": "API Error: 429",
+      "rag_score": 0.75,
+      "gpt_score": 0.0,
+      "rag_matched": [
+        "ambulance",
+        "covered",
+        "charges"
+      ],
+      "rag_missed": [
+        "emergency"
+      ],
+      "gpt_matched": [],
+      "gpt_missed": [
+        "ambulance",
+        "covered",
+        "charges",
+        "emergency"
+      ]
+    }
+  ]
+}

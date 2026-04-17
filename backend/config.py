@@ -20,4 +20,4 @@ OLLAMA_HOST = os.getenv("OLLAMA_HOST", "localhost")
 OLLAMA_URL  = f"http://{OLLAMA_HOST}:11434/api/generate"
 
 # Retrieval
-TOP_K = 7
+TOP_K = 5

@@ -17,6 +17,9 @@ STRICT RULES:
    "I could not find this information in the available policy documents."
 6. Never use outside knowledge. Only use the context.
 7. Keep answer under 200 words unless listing many items.
+8. Always base each statement on the provided context.
+9. Do not generate any information not explicitly present in the context.
+10. If possible, refer to policy terms exactly as written.
 
 CONTEXT:
 {context_text}
