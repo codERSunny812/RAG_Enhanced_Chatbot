@@ -15,8 +15,8 @@ policy documents, built with LLaMA3.2, FAISS, and React.
 | PDF Parsing | pdfplumber |
 
 ## Project Structure
-'''javascript
-Mini Project(RAG)/
+```javascript
+Mini Project (RAG)/
 ├── backend/
 │   ├── main.py              # FastAPI entry point
 │   ├── config.py            # Global settings
@@ -35,7 +35,7 @@ Mini Project(RAG)/
 │   ├── eval_results.json    # Detailed results
 │   └── eval_report.txt      # Summary report
 └── docker-compose.yml
-'''
+```
 
 
 ## Dataset
